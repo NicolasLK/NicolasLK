@@ -43,5 +43,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-kaminski-b479b8160/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicolasloffikaminski/)
 
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NicolasLK&theme=radical)
 
-![GitHub Stats](https://SEU-PROJETO.vercel.app/api?username=NicolasLK&show_icons=true&theme=radical)
