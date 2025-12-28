@@ -6,7 +6,7 @@
 
 ## 👱‍♂️ About Me
 - 📆 **Birthday**: 18/04/2001
-- 👩‍💻 **Work**: Dev. front-end
+- 👩‍💻 **Work**: Dev. Full Stack
 - 🗺️ **Localization**: Brazil, Içara, SC
 - 🎓 **Education**: Software Engineering
 
@@ -44,4 +44,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicolasloffikaminski/)
 
 
-![Nicolas Kaminski GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasLK&show_icons=true&theme=radical)
+![GitHub Stats](https://SEU-PROJETO.vercel.app/api?username=NicolasLK&show_icons=true&theme=radical)
